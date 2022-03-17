@@ -20,6 +20,7 @@ module.exports = {
         tertiary: "#D6D7D9",
         secondary: "#C5C7CD",
         upload_btn: "#181D30",
+        upload_btn_hover: "#0b0e16",
         input_bg: "#F4F7F9",
         dark_gray: "#787C87",
         btn_border: "#1E1E1F",
