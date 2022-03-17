@@ -11,7 +11,7 @@ const Aside = ({ name }: Props) => {
         {/* Logo */}
         <svg
           width="30"
-          height="4 7"
+          height="50"
           viewBox="0 0 18 35"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
