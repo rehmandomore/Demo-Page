@@ -24,13 +24,19 @@ const Aside = ({ name }: Props) => {
       </div>
       <ul className="mt-72 space-y-7">
         <li>
-          <img src="/upload1.png" alt="upload-img" className="h-7 w-7" />
+          <a href="#">
+            <img src="/upload1.png" alt="upload-img" />
+          </a>
         </li>
         <li>
-          <img src="/manage.png" alt="manage-img" className="h-7 w-7" />
+          <a href="#">
+            <img src="/manage.png" alt="manage-img" />
+          </a>
         </li>
         <li>
-          <img src="/settings.png" alt="setting-img" className="h-7 w-7" />
+          <a href="#">
+            <img src="/settings.png" alt="setting-img" />
+          </a>
         </li>
       </ul>
     </div>
